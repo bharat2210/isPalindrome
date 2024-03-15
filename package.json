@@ -1,0 +1,30 @@
+{
+  "name": "ispalindrome",
+  "version": "1.0.0",
+  "description": "Palindrome checker",
+  "main": "lib/index.js",
+  "types":"lib/index.d.ts" ,
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharat2210/isPalindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "isPalindrome",
+    "string"
+  ],
+  "author": "Bharat Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bharat2210/isPalindrome/issues"
+  },
+  "homepage": "https://github.com/bharat2210/isPalindrome#readme",
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  },
+  "files": ["lib/**/*"]
+}
