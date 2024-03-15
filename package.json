@@ -1,5 +1,5 @@
 {
-  "name": "ispalindrome",
+  "name": "ispalindromee",
   "version": "1.0.0",
   "description": "Palindrome checker",
   "main": "lib/index.js",
