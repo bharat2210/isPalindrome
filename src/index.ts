@@ -14,4 +14,4 @@ function isPalindrome(value:any) {
     }
 }
 
-module.exports = isPalindrome;
+export default isPalindrome;
